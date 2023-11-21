@@ -1,0 +1,145 @@
+console load 6 boss-18
+   1
+
+#Start
+  36
+
+#lvl_boss-18
+***s
+   5,R
+   1,R,J
+   5,R
+  12,D,X
+  27,D
+***
+   5,D
+  19,R,D
+***
+  32,R
+***
+  13,R,U
+***
+   8,U
+   2,R
+  12,R,Z
+***
+  98,D
+***
+ 
+   1,R,J
+  11,X
+  36
+  25,R,D
+***
+stunpause
+   1,R,D
+  17,R
+endstunpause
+   1,S
+  10,J
+   5,R,D,X
+stunpause
+  10,R,D
+  11
+endstunpause
+   6
+stunpause
+  16
+endstunpause
+***
+   1,S
+  10,J
+   1
+   1,S
+  10,J
+   1
+   1,S
+  10,J
+   1
+   1,S
+  10,J
+   2
+   1,S
+  10,J
+   1
+
+
+
+   1,S
+  10,J
+   2
+   1,S
+  10,J
+   1
+   1,S
+  10,J
+
+
+
+repeat 2
+   1,S
+  10,J
+   1
+endrepeat
+   1,S
+  10,J
+   1
+   1,S
+  10,J
+   1
+   1,S
+  10,J
+   1
+   1,S
+  10,J
+
+  50
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  25,R,D
+stunpause
+   1,R,D
+  17,R
+endstunpause
+   1,S
+  10,J
+   5,R,D,X
+stunpause
+  10,R,D
+  11
+endstunpause
+   6
+stunpause
+  16
+endstunpause
+repeat 2
+   1,S
+  10,J
+   1
+endrepeat
+   1,S
+  10,J
+   1
+   1,S
+  10,J
+   1
+   1,S
+  10,J
+   1
+   1,S
+  10,J
+
+  50

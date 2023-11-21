@@ -1,0 +1,82 @@
+console load 3 2452 -560
+  37
+   1,L
+  12,J
+  12,K,G
+  30,R,J
+   6,R
+   2,R,J
+   5,X
+stunpause
+   2
+  32,D
+   2
+endstunpause
+   1,S
+  10,J
+   4,X
+   1,J
+stunpause
+  14,R
+  14,R,J
+endstunpause
+   1,S
+  10,J
+   1,R,K
+   4,X
+stunpause
+   6,R,D
+   4
+endstunpause
+   1,S
+  10,J
+   1
+   4,Z
+stunpause
+  10
+   4,J
+endstunpause
+  13,J
+  15,U,X
+   6,R
+  19
+ 120,G
+   1
+   1,R,J
+  50,D
+   1
+   1,J
+  20,R
+   3
+   9,U,X
+   1,R,J
+  50
+  50
+   7,R
+  19
+ 124,G
+   1
+   1,J
+  11,R,K
+  50,K
+   1
+   1,R,J
+  50,D
+   1,J
+   1,R,K
+ 509
+  14,Z
+   1,R,K
+  10,R,D,X
+   5
+  14,Z
+  12,J,G
+  50,K,G
+   6,L,Z
+   1,J
+   7
+  20,J
+  25,Z
+  24,V
+  15,U,X
+ 500,R

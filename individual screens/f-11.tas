@@ -1,0 +1,75 @@
+console load 7 lvl_f-11
+  37
+
+#lvl_f-11
+   4,D,X
+  10,R
+  28,R,J
+   5,R,U,X
+  19,R
+   5,R,U,X
+  18,R
+  12,R,J,G
+   6
+   5,X
+  10
+   4,D,X
+  10
+  10,J
+   5,U,X
+  49
+   5,X
+   7
+  26,R
+   5,X
+  10
+   5,X
+  28,R
+  37
+***
+#   5,U,X
+#  10
+#   5,R,U,X
+#   6
+#   1,R,J
+#  11
+#   4,J
+#   4,D,X
+#  10
+#   5,J
+#  11
+#   5,U,X
+#  52
+#  11,J
+#  21
+#  10,J
+#  21
+#   6,G
+#   1,J,G
+#   1,K,G
+#   1,J,G
+#  20,J
+#   5,U,X
+
+# pretty far away from correct, but much more time on the block
+   5,U,X
+  10
+   5,R,U,X
+   6
+   2,R,J
+  13
+   5,J
+   4,D,X
+  10
+  15,J
+   5,U,X
+  66
+  30,J
+   9
+  10,G
+   1,J,G
+   1,K,G
+   1,J,G
+   1,K,G
+ 200,J
+
