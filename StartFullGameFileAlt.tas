@@ -1,25 +1,31 @@
-Set,ScreenShake,Off
+console titlescreen
 Set,Everest.UseKeyboardForTextInput,False
 Set,CrouchDashMode,Press
 Set,GrabMode,Hold
+Set,ScreenShake,Off
 Set,DisableFlashes,True
 Set,SpeedrunClock,2
-Set,Everest.ShowModOptionsInGame,False
+Set,Everest.ShowModOptionsInGame,false
 EnforceMaingame
 Unsafe
-Add 2
-Add 1,J
-Add 89
-Add 1,J
-Add 94
-Add 1,J
-Add 61
-
+   2
+   1,J
+  94
+   1,J
+  61
+   1,J
+  14
+   1,D
+   1,F,180
    1,D
    1,J
-Skip
-  70
-Add 41
+   1,U
+   1,J
+   1,O
+  14
+   1,D
+   1,J
+  41
    1,D
    1,F,180
    1,R

@@ -89,8 +89,7 @@ endrepeat
    1,D,J
   34
 
-***s
-#lvl_00
+#lvl_0 (0)
    3
   15,R,U,X
   15,R,U,C
@@ -116,18 +115,16 @@ endrepeat
   15,R,U,X
    5,R,U,C
   20,R
-***
    1,R,J
    7,J
   16
  101,D
-***
    5,D,X
   56,D
   19,J
   40
 
-#lvl_01
+#lvl_1 (0)
    5,R,J,G
    6,R
    5,R,J,Z
@@ -175,7 +172,7 @@ endrepeat
    6,R,J,G
   40
 
-#lvl_02 (0)
+#lvl_2 (0)
    4
   12,J
   14,U,X
@@ -200,7 +197,6 @@ endrepeat
    1,R,J
   11,J
    4,K,G
-***
    7
    5,D,X
   43,D
@@ -216,7 +212,7 @@ endrepeat
   10,Z
   40
 
-#lvl_03
+#lvl_3
 
    4,Z
    1,J
@@ -240,7 +236,7 @@ endrepeat
    9,R,K,G
   40
 
-#lvl_02 (2)
+#lvl_2 (1)
 
    4,R,J
   14,R,U,X
@@ -283,7 +279,7 @@ endrepeat
    4,R,J,G
   40
 
-#lvl_02b
+#lvl_2b
    9,R,J,G
    2,R,K
   14,Z
@@ -314,7 +310,7 @@ endrepeat
   13,R,J
   40
 
-#lvl_04
+#lvl_4
   11
   14,R,D,X
    1,R,J
@@ -350,7 +346,7 @@ endrepeat
    8,R,D,X
   40
 
-#lvl_05
+#lvl_5
    3
    6,R,D,X
    1,R,J
@@ -391,41 +387,58 @@ endrepeat
    3,R,J
   40
 
-#lvl_06
-
+#lvl_6
+   2,R,J
+StunPause
+   3,R,J
+EndStunPause
+   4,R,X
+StunPause
+   3
+  34,R,J
+  12,R,K,G
+   9,R,J,G
+   7,R
+   6,D
+EndStunPause
+   4,R,Z
+StunPause
+   9
+   7,R,J
+   7,R
    1,R,J
-   5,R,J
-  15,D,X
-  21,R
-  26
-  42,F,57.741
-  11,U
-#left 1f
-   1,L,D
-  16,D
-repeat 6
-   1,U
-   1,D
-endrepeat
-  15,X
-  34
-  12,J,G
-  12,K,G
-   5,J,G
-  10
-   5,R
-  27
+  17,D
+EndStunPause
+   4,X
+StunPause
+   8
+  48,D
+   1,G
+EndStunPause
+StunPause
+   7,U,G
+   1,G
+   2,J,G
+EndStunPause
+  10,J,G
+   1
+  13,K,G
+   7
+   1,R
+  37
   25,J
-  46,K
-  25,J
-  10,U,X
-  24,R,J
-  32,R
+  43,K
+  24,J
+   2,K
+   9
+   7,U,X
+  27,R,J
+  30,R
   14,R,Z
    3,R,J
   40
 
-#lvl_07
+#lvl_7
    1,R
   14,R,D,X
   14,R,J
@@ -450,7 +463,7 @@ endrepeat
    8,R,Z
   40
 
-#lvl_08a
+#lvl_8a
 
    1,R,Z
    1,R,J
@@ -471,7 +484,7 @@ endrepeat
   10,R
   40
 
-#lvl_09
+#lvl_9
   
    2,R
   24,R,J
@@ -932,7 +945,6 @@ endrepeat
   23,R,D
    1,R,J
   15,D,X
-***s
   12,D
    6,J,Z
   16,D
@@ -966,62 +978,70 @@ endrepeat
    
 
 #lvl_b-03
-   9,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-   2
-   2
-   4,C
-#left 1f
-   1,L,D,C
+   5,R,D,X
+StunPause
    4
-   1,J,G
+   1,R,J
+   6,R
+
+   1
+  14,J
+   1,D,X
+EndStunPause
+   4,D,X
+StunPause
+  10
+  10,D
+   1
+   9,R
+  11,R,J
   12,K,G
-  21
+   2,J,G
+EndStunPause
+   5,X
    1,J,G
-  11
-   1,J
-  14
-   9,R,J
-   3
-  20,R
-   1,J
-  15,R
+  33,K,G
+   8,J
+   7
+  15,R,D
+   1,R,J
+  15,R,U,X
+  44,R,D
+   1,R,J
   15,R,U,X
   30,R,D
+  21,D
+   1,R,J
+  15,R,U,X
+  13,D
+   3,R,D
+  16,D
+ 134,D
+  28,R
+   2
+   5,R,J,Z
+   7,R
+  50,R,J
    1,J
-  14
-   1
-   1,J
-  11
-  13,R,U,X
-  14,R,D
-  20,D
-   1
- 171,D
-   9,R,J,Z
-  10,R
-  51,R,J
   14,R,U,X
-   3,R,J,G
-   9,R
+   1,R,J,G
+  10,R,D
+   1,R,J
   40
 
 #lvl_boss-00
-   4,R
-   1,R,J
-   4,R
-   5,R,D,X
+   6,R,J
+   7,R,D,X
    1,R,J,G
-  12,R
-   2,R,J
-  14,R,D,X
+  17,R
+   1,R,J
+   9,R,D,X
    1,S
    1,D,J
   34
 
-   5,R,J
+   1,R,J
+   3,R
   17
   21,R
   19,R,D,X
@@ -1642,7 +1662,8 @@ endrepeat
    1,R,J
   11,X
   37
-  27,D
+  19,D
+   8,D
   15,R,D,X
   14,R,D
   37
