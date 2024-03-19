@@ -80,10 +80,8 @@ repeat 11
    1,D
 endrepeat
    1,X
-EndStunPause
-   4,U,X
-StunPause
-   5,U,X
+SkipInput,3,1
+   9,U,X
 EndStunPause
    8
   15,R,U,C
@@ -104,25 +102,19 @@ StunPause
    1
    1,J
   12
+SkipInput,3,1
    1,X
-EndStunPause
    3,X
-StunPause
   11,X
    4
-EndStunPause
-   7
-StunPause
-  10
-   1,X
-EndStunPause
-   4,X
-StunPause
+SkipInput,6
+  17
+SkipInput,3,1
+   5,X
   23
-EndStunPause
-   7
-StunPause
-  14,R
+SkipInput,6
+   6
+  15,R
    1,U,X
 EndStunPause
    4,U
@@ -230,7 +222,6 @@ EndStunPause
    6,R
   40
 
-***S
    1,R
    4,R,J
    1,R
@@ -250,7 +241,6 @@ EndStunPause
    1,R,J,G
    7,R
   10,R,D,X
-***
   13,R,J
    1,R
    1,R,J
@@ -272,7 +262,6 @@ EndStunPause
   10,R
    6,R,J,Z
    4,R,K,G
-***
    6,R
    1,R,J,G
   13,R
@@ -293,7 +282,6 @@ EndStunPause
    1,U
    1,D
    1,U
-***
    1,D
    1,U
    1,D
@@ -319,14 +307,12 @@ endrepeat
   14,X
   58,R,D
    6,R,D,G
-***
    1,R
    1,R,J
    6,X
   35,D
   18,G
    2,D,G
-***
    4,J,G
   17,R,K
    3
@@ -335,7 +321,6 @@ endrepeat
   15,X
    4
  119,U,G
-***
    3,J,G
    1,R,K
    1,R,J
@@ -347,37 +332,973 @@ endrepeat
    1,J
   52,R,J
    1,K
-  24,R,K
+  49,R,K
    1,J
-  50,R,J
+  48,R,J
+   1,R,K
+  11,K
+  35,J
+  26,D
+  15,X
+  42
+  36,J
+   1,R,K
+  20,R,J
+   2,R
+  11,R,K
+   7
+  15,U,X
    1,R,J,G
+   8,R
+   5,J,Z
+   4,R
+  40
+
+   3,R
+   3,R,J
+  10,R,U,X
+   1,R,J,G
+  16,R
+   1
+   1,R,J
+   3,R
+   9,R,D,X
+   3,R,J,G
+  11,R
+   8,R,J
+   8,R,D,X
+   1,R,J,G
+  11,R
+   1,R,J
+   2
+   7,R,D,X
+   1,R,J,G
+  12,R
+   1,R,J
+  10,R
+  15,D,X
+  27,R,D
+  40
+
+   8,D
+  15,R,D,X
+   8,R,D
+  14,D
+StunPause
+  32,D
+EndStunPause
+
+   7,D
+   3
+  12,R,D,X
+   5,R,D,X
+  10,R
+  15,R,D,X
+   3,R,D,X
+  17,R
+   6,R,X
+   9,R,D
+
+ 111,R,G
+   1,R
+   1,R,J
+   1,R,K
+  23
+  18,X
+   5,J
+  23,D
+  15,X
+  24,R,D
+  24,D
+  34,R,D
+repeat 4
+   1,R,J
+   1,R,K
+endrepeat
+   4,R,K
+   4,R
+  10,R,D,X
+   1,R,J
+  40
+   1,R
+  20,R
+  21,D
+   2,D
+   5,D
+   2,D
+  15,R,D,X
+   9,R
+  15,R,D,X
+  10,R,D
+   9,R
+  10,X
+  37
+  33,G
+  31,D
+   6,R,D
+   1,D
+   2,R,D
+   4,D
+StunPause
+  17,R,D
+   6,R
+SkipInput,3,1
+  15,X
+   1,R
+SkipInput,3,1
+  10,R,D,X
+  13,R,J
+EndStunPause
+   3,R,J
+  34,R,D
+   1,R,J
+   5
+  15,X
+  31,D
+  25,D
+  15,X
+  15,C
+   1
+  11,R,D,X
+  11,R,U,J
+repeat 4
    1,R,K
    1,R,J
-   6,K
-  38,R,D
-  12,R,G
-  35,J,G
-  50,D
-   1,J
-  23,R,J
-  12,R,K,G
-  50,D
-   2
-   1,R,G
-  12,R,J,G
+endrepeat
+   1,R,J
+   1,R,K,G
+   7,R
+  40
+
+
+  26,R,D
+  27,D,X
+   4,R
+   6
+   1
+StunPause
+  10
+
+  26,D
+  14,R,D
+   7,D
+   1,R,D
+   1,D
+  21,D
+EndStunPause
+   1,D
+  15,R,D,X
+   7,R,D
+StunPause
+  25,R,D
+SkipInput,6
+  24
+SkipInput,3,1
+  15,D,X
+   9,D
+   5,R,D
+   5,R
+   5
+   1,R
+EndStunPause
+   4,D
+   9,R,D
+  14,R,X
+   1,R,J,G
+  12,R,Z
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   2,R,J
+   8,R
+  40
+
+   5,R
+   9,R,D
+  29,D
+   5,R,D
+StunPause
   11,R,D
+   6,D
+   4
+SkipInput,3,1
+  12,D,X
+   1,R,J
+   4
+SkipInput,3,1
+   5,R,Z
+   5
    1,J
- 500,R,J
-  12,R,J,G
+EndStunPause
+   3,J
+  27,D
+  15,X
+  29,R,D
+  15,X
+   1,R
+   2
+   1,R
+   9
    1
-   1,R,G
-  12,R,J,G
+  19,D
+StunPause
+  24,D
+  13,R,D
+EndStunPause
+   9,R,D
+   3,D
+   5,J,Z
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   5,R
+   3,R,J
+   1,R,J,G
+   4,R
+  40
+
+  22,R
+  25,D
+  13,R,D
+   1,R,J
+  15,Z
+  24,R,D
+   9,X
+  43,D
+  12,G
+   1,R
+   1,R,J
+  53,D
+   5,R,J
+  90,R,D
+   5,R,J,Z
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+  12,R,J
+   2,R,K,G
+   4,R
+  40
+
+   6,R,D
+  37,D
+   2,R,D
+  30,D
+   7,R,D
+   1,D
+   1,R,D
+   1,R,J
+   9
+  15,X
+  23,D
+StunPause
+  31,D
+   9,R
+  10,R,D
+   1,R
+   3,R,D
+SkipInput,3,1
+  11,R,J,Z
+   2,R,D
+EndStunPause
+  12,R,D
+   8,D
+  25,R,D
+  13,J
+   1,R,K
+  11,R,D,X
+  40
+   3
+   1,J
+   5,Z
+  40
+   9
+   1,R,J
    1
- 500,U,G
-  15,R,K
-  50,R,J
+   1
+   6,R,D,X
+   1,R,J,G
+   7,R
+  40
+
+   5,R
+  33,R,J
+  13,R,U,X
+   1,R,J
+   1,R,K
+  56,D
+  15,X
+  30,R,D
+   9,D
+  15,X
+  26
+   1,D
+  18,U
+repeat 21
+   1,U
+   1,D
+endrepeat
+  15,D
+StunPause
+   1,U
+  43,F,96.34
+   2,R
+  45,D
+EndStunPause
+   4,D
+   6,R,D
+   2,D
+   1,R,D
+  35,D
+  16,R,D
+repeat 4
+   1,R,J
+   1,R,K
+endrepeat
+   3
+   4,R,J
+   1,R,K,G
+   9,R
+  40
+
+   3,R
+   3,R,J
+  22,R,K,G
+   4,R,J
+  33,D,X
+StunPause
+  33,D
+EndStunPause
+   7,D
+   2,R,D
+   1,D
+   1,R,D
+   5,R
+StunPause
+   7,R,D
+  13,R
+   2,R,D
+   4,R
+   1,R,D
+SkipInput,3,1
+  15,Z
+   1,R
+  12,D
+   9,R,D
+   6,R
+EndStunPause
+  27,D
+StunPause
+   4,D
+SkipInput
+   3
+  20,D
+   3,R,D
+EndStunPause
+  26,R,D
+   5,J,Z
+   3,R
+  40
+
+   4,R
+  10,R,J
+  10,R
+  18,R,X
+   9,R
+  18,R,X
+   1,R,K,G
+  10,R
+  18,R,X
+   5,R
+  18,R,U,C
+   9,R
+  15,R,X
+  23,R
+  18,R,X
+   7,R
+  13,R,U,X
+  26
+ 107,F,90.61
+  14,R,Z
+   7,R,J
+  15,R,D,X
+   1,R
+   2,R,J
+  15,R,D,X
+   1,R,J
+   3,R,K
+   2,R
+   8,R,J,G
+  40
+
+   7,R,J
+  14,R,U,X
+  40
+   1,R,J
+  31,R,D
+  15,R,X
+  23,R,D
+  17
+  15,R,U,X
+   3
+  45
+   1,R,J
+  44,R,D
+  15,R,X
+  10,R
+  18,R
+  19,R,X
+  37,R
+  15,R,U,X
+  19,R,G
+   4,R,J,G
+  22,D
+  12,R
+  13,R,Z
+   1,R,J
+  13,R,D
+  14,R,U,X
+  47,R
+  11,R,J
+   4,R
+  15,R,D,X
+  11,R
+   5,R,J,Z
+   7,R
+  40
+
+   4,R,J
+  15,R,D,X
+  15,D
+  37
+  15,R,U,X
+  17,R
+   3,R,J
+  11,R
+   3
+  15,R,X
+   4,R
+   7,R,J,G
+  37,R
+   3
+  15,R,X
+  36,R
+  26
+  34,F,60
+  47,F,99.93
+  14,Z
+   1,R,J
+   4,R
+  40
+
+   2,R
+   1,R,J
+  20,R
+  18,R,U,Z
+  15,R,U,X
+  15,R,C
+   5,R
+  15,R,D,X
+   9,R
+  37,R
+  40,R
+  15,R,U,X
+  12,R
+   3
+  10
+   5,R,J
+   9,R
+  10,R,J
+   3
+   6,R,D
+  14,R,Z
+  26
+  18,F,61.5
+StunPause
+   3,F,61.5
+  29,F,102
+   8,R
+SkipInput,3,1
+   7,R,U,Z
+   1,R,J
+EndStunPause
+  52
+  15,X
+  14
+  15,U,X
+   5,R
+  15,R,J
+  10,Z
+   1,R,J
+   7,R,J
+  15,R,D,X
+  18,R,D
+  18,X
+  37
+  15,D,X
+   7,R,Z
+  15,R,J
+   6,R,K,G
+  40
 
    1,J
+  10
+  26
+   1,D
+  20,F,151
+  18,R
+  12,R,U,X
+  39
+  11,R,J
+   1,R
+  21,R
+  15,X
+   4,R
+  12
+  26
+   1,D
+   9,U
+repeat 17
+   1,U
+   1,D
+endrepeat
+  11,U
+StunPause
+  57,F,35
+   8,U
+  11,R,U
+   4,R,J,G
+   1,R,K
+   1,R,J
+   7
+SkipInput,3,1
+   5,R,D,X
+  17,D
+EndStunPause
+   6,D
+  26
+   1,U
+   9,D
+  60
+   2,U
+  19
+  15,D,X
+   5
+  56
+   5,X
+  26
+   1,R
+  41,F,111
+  35,R
+StunPause
+  46,F,92.8
+   1,R,J
+   7
+SkipInput,3,1
+   7,U,X
+EndStunPause
+   3,U,X
+  40
+  15,Z
+  43,R
+   6,R
+  15,R,U,Z
+  28,R
+   3,R
+  15,R,X
+ 100,G
+   5,R
+  27,R,J
+  14
+  15,R,Z
+   2,R
+   6,J
+  26
+  31,U
+  14,D
+  40,D
+  15,R,U,Z
+  11,R,J
+   9,R,K,G
+   7,R
+   9,R,U,X
+  44,R
+  19,D,X
+   4,R,D
+   3,R,J
+   1,R
+   6,R,J
+   3,R
+  10,R,D,X
+   5,R,J
+   3,R
+   5,R,U,X
+  40
+
+  22,R
+   1,R,J
+  15,D,X
+  14,J
+  12,D,X
+   1,J
+   1,K
+  30,D
+  15,X
+   8,D
+  11,R
+   2,R,D
+   1,D
+   3
+  15,R,X
+  30,R
+  14,U,X
+   3,R,J
+   1,R
+   8,R,J
+  22,R
+   1,R,J
+  25,R,D
+  37
+   1,R,J
+  28,R,D
+  21,D
+   5,R,D
+   3,R
+   1
+   1,R
+  13,Z
+   1,R,J
+   1
+  37
+  15,X
+  26,R,D
+StunPause
+   1,R,D
+  16,D
+   3
+   8,R
+EndStunPause
+  28,R
+  17,R
+   7
+  15,R,D,X
+   6,R,D
+   6
+  11,R
+  11,R,X
+  44
+  15,R,X
+  26,R,D
+   5,R,J,Z
+   6,R
+  40
+
+   1,R
+   5,R,J
+  20,R,K,G
+  14,R,U,X
+  26,D
+   6,R
+  34,R,J
+  13,D
+   6,R,J
+StunPause
+  34,R,J
+SkipInput,3,1
+  15,R,U,X
+  24,R,D
+   4
+SkipInput,3,1
+   7,R,D,X
+EndStunPause
+   4
+  31,R,J
+StunPause
+   6,R,J
+SkipInput,3
+   3
+  11,R,J
+SkipInput,3,1
+  15,R,X
+  13,R
+   6
+   2,J,G
+   7,R
+  14,J
+SkipInput,3,1
+  12,D,X
+   1,R,J
+  10
+SkipInput,3,1
+  10,R,X
+EndStunPause
+  29,R,J
+  15,R,X
+  16,R
+  15,R,U,Z
+   4,R
+StunPause
+   3,R
+SkipInput,3
+   3,R
+SkipInput,3,1
+  15,R,U,X
+  30,R
+   3
+SkipInput,3
+   3
+   1,J
+   9,J
+SkipInput,3,1
+  15,R,U,Z
+   6,R
+EndStunPause
+   3,R
+   3
+  18,U,X
+  15,U,C
+  40
+
+  11,R,J
+   1,R,J,G
+  11,R,K,G
+  14,R,Z
+  13,R,J
+  14,R,D,X
+   5,J
+  15,U,X
+   4,R,J,G
+   7,R
+   8,R,X
+  48,R,D,J
+  37
+  19,D
+   8,J
+  17
+   5,R,J
+   7,R
+   2,R,J
+   1,R
+   6,R,J
+  15,Z
+  30,D
+   6
+  11,R
+   7,R,X
+  37
+   2
+  15,D,X
+   6,D
+   6
+  26,R
+  14,R,X
+   1,R,J,G
+  18,R
+  44,R
+  15,R,X
+  26,R,D
+   5,R,J,Z
+   7,R
+  40
+
+   1,R,J
+  11,R
+  15,D,X
+   5,R,D
+  10,D
+  25,R
+  15,R,U,X
+  34,R,D
+  33
+   1,R,J
+   3,R
+  15,R,X
+   8,R
+  26
+   7,D
+  19,R
+  49,F,15
+  64,D
+  10,R,D
+  11,R,X
+  41,R,J
+  12,R,K,G
+   9,R,J,G
+   5,R,K,G
+   7,R
+  15,R,U,Z
+   8,R,J
+  39
+   1,R,J
+   8,R
+  15,R,D,X
+  15,R
+   6,R,J,Z
+   1,R
+  40
+
+   3
+  18,R,D
+  13,R,Z
+   2,R,J
+  12,R
+  14,R,X
+  32
+   7,R,J,G
+   3,R,K
+  10,R,J
+   4,R,K
+   9,D
+StunPause
+  24,D
+SkipInput,3,1
+  15,X
+  25,D
+EndStunPause
+  21,D
+   7,J
+  14,Z
+  10,J
+  11,X
+  32
+  12,J,G
+   3,K
+   1,J
+   1,K
+  53,D
+   7,X
+  51
+   1,R,J
+  33,R,K
+  37
+  58,D
+   2,R,J
+  15,X
+  14,D
+   6
+  17
+  22,D,X
+   6
+  30
+   8,X
+   6
+  11
+  15,X
+  11,D
+  74,D
+  14,R,D
+  15,R,X
+   7,R
+  10,R,D,X
+   6,R,J
+   6,R
+  10,R,D,X
+   3,R,J
+  14,R,U,X
+  44,R
+  15,R,D,X
+  12,R,D
+   8,R,J,Z
+   1,R,K,G
+   6,R
+  40
 
 
-9999
+  14,R,D,X
+   1,R,J
+  13,R,U,X
+  26
+  32,R
+  22,F,87.2
+   7,F,150
+  34,F,76
+  42,F,124
+  10,R,X
+  26
+   1,R
+  47,F,86
+  15,R,U,X
+   2,R
+  25,R,D
+  26
+   1,U
+  17,R
+   8,U
+repeat 10
+   1,U
+   1,D
+endrepeat
+  63,R
+  19,F,120
+  15,X
+   2
+   1,R
+   6
+   1
+   5,D
+   6
+   1,R
+  18
+  24,D,X
+   6
+  27,R
+   5,R,U,X
+  26
+  29,F,116
+  23,F,48
+  15,F,53
+  35,F,90.5
+  15,Z
+   1,R
+  11,D
+   6
+  13,R
+  15,R,D,X
+   3,R,J
+  15,R,D,X
+  44,R
+  15,R,D,X
+  15,R,D
+   6,R,J,Z
+   9,K,G
+   8,R,J,G
+  40
+
+
+   3,R,J
+  10,R,Z
+   5,R,J
+  15,R,D,X
+  26,R,J
+  15,R,X
+  13
+  23,R
+  10
+   1,R
+  15,D,X
+   6,D
+   6
+  10,R
+  26,R,K,G
+   2,K
+  13,U,X
+   6
+  24,R
+  15,R,D,X
+   8,R
+  14,R,Z
+   1,R,J
+  17,R
+   8,D,X
+   6
+  21,R
+  14,R,X
+ 194
+   1,J
+ 196
+
+ChapterTime: 6:11.280(21840)

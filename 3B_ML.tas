@@ -1,8 +1,11 @@
+RecordCount: 23
+
 console hard 3
 
 #Start
   62
 
+#lvl_00
   14,R,D,X
    1,R,J
   14,R,Z
@@ -22,10 +25,10 @@ console hard 3
    7,R,X
   40
 
+#lvl_01
    6,R,X
   12,R,J,G
    2,R
-
   14,R,Z
    8,R,J,G
    1,R
@@ -37,6 +40,7 @@ console hard 3
   13,R,D,X
   40
 
+#lvl_02
    1,R,D,X
    1,R,J
    7,R
@@ -49,7 +53,8 @@ console hard 3
   11,R,K
    1,R
    5,R,J
-  21,R
+  20,R
+   1
    1,R,J,G
    7,R,K,G
   16,R,D
@@ -66,6 +71,7 @@ console hard 3
    3,R
   40
 
+#lvl_03
    3,R
    9,D
    3,R,D
@@ -88,6 +94,7 @@ console hard 3
    8
   40
 
+#lvl_04
    2
   15,D,X
   13,J
@@ -106,9 +113,11 @@ console hard 3
    1,R
   28,R,J
   27,R,D
-   7,R,J,Z
+   4,Z
+   3,R,J
   40
 
+#lvl_05
    3,R,J
    7,R,K
    1,R,J,G
@@ -166,6 +175,7 @@ console hard 3
    2,R
   40
 
+#lvl_06
    4,R
   20,R,J
   12,R
@@ -186,10 +196,9 @@ console hard 3
    6,R,J,Z
    1,R
    2,R,J
-   0,R
   40
 
-
+#lvl_07
   11,R,D
    4,R,J
    1,R
@@ -214,6 +223,7 @@ console hard 3
    7,R
   40
 
+#lvl_08
   10,R,J
   15,R,D,X
    5,R
@@ -263,6 +273,7 @@ endrepeat
   14,U,X
   40
 
+#lvl_09
    1,R,J,G
    1,R
    1,R,J
@@ -289,6 +300,7 @@ endrepeat
   10,R,X
   40
 
+#lvl_10
   12,R,J
   15,U,X
   18,R,J
@@ -300,7 +312,6 @@ endrepeat
    1,K
   26,R,J
    1,R,G
-
   13,R,K,G
   13,R,J,G
    1,K
@@ -327,6 +338,7 @@ endrepeat
    5,R
   40
 
+#lvl_11
    2,R
   14,R,J
   10,R,K,G
@@ -382,6 +394,7 @@ endrepeat
   11,R
   40
 
+#lvl_13
    1,R
   11,R,J
    1,R
@@ -392,7 +405,6 @@ endrepeat
   12,R,D
   12,R,X
    1,J,G
-
    1,R,J
   86,R
   15,R,U,Z
@@ -400,11 +412,13 @@ endrepeat
    7,R,J
   17,R
   41,R,J
-   5,R,K,Z
+   4,Z
+   1,R,J
    7,R
    2,R,J
   40
 
+#lvl_14
   11,R,J
    7,R,K,G
    1,J
@@ -441,6 +455,7 @@ endrepeat
    4,R
   40
 
+#lvl_15
    4,R
    1,R,J
   14,R,D,X
@@ -475,6 +490,7 @@ endrepeat
    5,R,D,X
   40
 
+#lvl_12
    6,R,D,X
   13,R,J
    8,R,J
@@ -491,8 +507,6 @@ endrepeat
   13,R,D,X
    7,R,J
   16,R,K,G
-
-
   15,R,X
    3
    7,R
@@ -512,6 +526,7 @@ endrepeat
    1,R
   40
 
+#lvl_16
    6,R
    8,R,J
   14,U,X
@@ -525,6 +540,7 @@ endrepeat
    1,R,J
   40
 
+#lvl_17
    1,R,J,G
    2,R,K,G
    8,R
@@ -572,11 +588,13 @@ endrepeat
   30,R,D
    3,R,D
    3,R,U,X
-   5,R,J,Z
+   4,Z
+   1,R,J
    6,R
    2,R,J
   40
 
+#lvl_18
    3,R,J
    1
   14,R,X
@@ -606,7 +624,7 @@ endrepeat
    1,R,J
   40
 
-
+#lvl_19
   12,R,D,X
    4,R,J
   15,R,Z
@@ -629,6 +647,7 @@ endrepeat
    9,R,D,X
   40
 
+#lvl_21
    5,R,D,X
    1,R,J
    7,R
@@ -657,6 +676,7 @@ endrepeat
    1,R,J
   40
 
+#lvl_20
    7,R
   13,R,J
   11,R,K
@@ -696,6 +716,7 @@ endrepeat
   14,D,C
   40
 
+#lvl_end
    5,R,D
    9,D
    5
@@ -719,4 +740,6 @@ endrepeat
   15,R,U,X
    1,R
   12
- 123,R,D
+ 122,R,D
+
+ChapterTime: 1:44.057(6121)
