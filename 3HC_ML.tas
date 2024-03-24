@@ -56,15 +56,14 @@ console load 3
   17,R,U,C
    3,R,J,G
    7,R
-   7,R,J
-   1,R,J
+   8,R,J
    6,R,X
    1,R,J,G
   43,R,D
    4,Z
    1,R,J
    9,R
-  35
+  28
    1,J
    1,R,K
   14
@@ -74,83 +73,83 @@ console load 3
   11
    5,Z
    2,J
-   9
-   6,R,Z
+   3
+   1,J
+   1
+   1,J
+   3
+   6,R,D,Z
    1,R,J
    6,R
    3,R,J
-   5,R,Z
-   3,R,J,G
-   3,R
-   1,R
+   5,R,D,X
    1,R,J,G
-  10,R
-   1,R,J,G
+   5,R
+   2,R,J
+   1,R,K,G
   11,R
+   1,R,J
+   5,R,D,X
+   1,R,J
+   3,R
+   4
+   1,D,J
+   2,R,D,J
   40
 
 #lvl_0x-a
-   4,R
-   6,R,J
-   9,R,K,G
-   8,R,J,G
-  15,R,D,X
-   4,R
-   1,X
+   8,R,J
+   4,J
+   1,R,K,G
+   4,K
+   1,R,K
+  17,R,D,X
+   1,R,D,N
    1,S
    1,D,J
   34
-   1,R,J
-  13,R
-   1,R
    6,R,J
+   3,R
+   1
+   8,R,Z
   40
 
 #lvl_00-a
-   1,R,J
-  12,R,Z
-   6,R,J,G
-   3,R
-   4,R,J
+   6,R,Z
    2,R,J,G
-   6,R,K,G
+   1,J
+   4,R,J
    1,R
+   1,R,K,G
+   1,K
+   3,R,K
+   5,R
+   1,R,K
+   5,R,J,G
+  17,R,D,X
    8,R,J
-   4,R,K
   15,R,D,X
-   4,R
-  10,R,J
-   1,R
-  16,R,J
-  15,R,D,X
-   2,R
-   3,R,J,G
-   9,R,K,G
-  15,R,D,X
+   7,R
    1,R,J
-   8,R,U,Z
+   4,R
+   5,R,U,Z
   40
 
 #lvl_02-a (0)
-   6,R,U,Z
-   2,R,J,G
-   3,R,K
-  11,R,U,Z
-   1,R,J,G
-  11,R
-   2,R,J
+   8,R,U,Z
+  12,R,K,G
+   1,J
+   5,R,Z
+   3,J
+   4
+  14,R,D
+   5,R,J
+  13,U,X
+   9,R,K
    1,R
-   4,R,J
-  15,R,D,X
-  15,R,Z
-   3
-   1,R,J
-  11,J
-  10,R,K
-   2
-  11,R,J,G
+   1,J,G
    7
-  15,U,X
+  16,U,X
   40
 
 #lvl_02-b
@@ -199,7 +198,7 @@ console load 3
    3
   15,R,Z
   11,R
-  76
+  75
    1,J
    1,K
    1,R,J
@@ -211,10 +210,11 @@ console load 3
   14,R,U,Z
    7,R,J,G
    8,R,K,G
+   1
   40
 
 #lvl_03-a
-  13,R,D,X
+  12,R,D,X
    1,R,J
   10,R
    3
@@ -1200,7 +1200,7 @@ console load 3
    4,D
   40
 
-#08-d
+#lvl_08-d
    3,D
   14,J
   18,X
@@ -1243,7 +1243,7 @@ console load 3
    5,D
   40
 
-#06-d
+#lvl_06-d
    1,D
    1,J
    3,D
@@ -1318,7 +1318,7 @@ console load 3
    7,J
   40
 
-#oshiro wall
+#lvl_04-d
    1
    2,R,J
    6,R
@@ -1368,8 +1368,7 @@ console load 3
   20,D
   40
 
-#lock room
-#fyi the demo is impossible
+#lvl_04-c
    1,D
    1,R,K
   15,D,X
@@ -1406,7 +1405,7 @@ console load 3
    7,D
   40
 
-
+#lvl_02-c
    3
    5,J,Z
    7,D
@@ -1456,6 +1455,10 @@ console load 3
   10,X
    5,J
   13,U,X
+MidwayChapterTime: 3:28.709(12277)
+#3:28.709(12277)
+#3:29.202(12306)
+#3:30.460(12380)
  137
  120
    1,J
